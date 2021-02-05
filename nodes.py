@@ -40,7 +40,7 @@ class BOLDUGUMU:
 		return f"({self.dugum_a}/{self.dugum_b})"
 
 @dataclass
-class ARTIDUGUMU:
+class ARTİDUGUMU:
 	dugum: any
 
 	def __repr__(self):
